@@ -6,7 +6,7 @@ const Header = () => {
         <div>
             <nav className='py-4 bg-gray-300 flex justify-center'>
                 <CustomLink className='p-5 text-xl font-semibold' to="/home">Home</CustomLink>
-                <CustomLink className='p-5 text-xl font-semibold' to="/riview">Riview</CustomLink>
+                <CustomLink className='p-5 text-xl font-semibold' to="/review">Review</CustomLink>
                 <CustomLink className='p-5 text-xl font-semibold' to="/dashbord">Dashbord</CustomLink>
                 <CustomLink className='p-5 text-xl font-semibold' to="/blogs">Blogs</CustomLink>
                 <CustomLink className='p-5 text-xl font-semibold' to="/about">About</CustomLink>
