@@ -1,8 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import useReview from '../Hook/useReview';
+import Review from '../Review/Review';
 import Img from './desktopImg.jpg'
 
 const HomePage = () => {
+
+    const [reviews] = useReview();
+
     return (
         <div>
             <div className='flex py-10 px-20 justify-between mt-10'>
@@ -18,7 +23,17 @@ const HomePage = () => {
                     <img className='w-[600px] rounded' src={Img} alt="paina" />
                 </div>
             </div>
-
+            <div className='mt-10'>
+                <h1 className='text-center text-4xl'>Client Review !</h1>
+                <div className='grid grid-cols-3 gap-4'>
+                    {
+                        reviews.slice(0, 3).map(review => <Review key={review.id} review={review}></Review>)
+                    }
+                </div>
+                <div className='text-center py-10'>
+                    <Link className='p-3 text-2xl bg-indigo-500 text-white rounded-xl' to='/review'>See More Review</Link>
+                </div>
+            </div>
         </div>
     );
 };

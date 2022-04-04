@@ -6,7 +6,8 @@ import Dashbord from './components/Dashbord/Dashbord';
 import Header from './components/Header/Header';
 import HomePage from './components/Homepage/HomePage';
 import NF404 from './components/NotFound/NF404';
-import Review from './components/Review/Review';
+import Reviews from './components/Reviews/Reviews';
+
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
       <Routes>
         <Route path='/' element={<HomePage></HomePage>}></Route>
         <Route path='/home' element={<HomePage></HomePage>}></Route>
-        <Route path='/review' element={<Review></Review>}></Route>
+        <Route path='/review' element={<Reviews></Reviews>}></Route>
         <Route path='/dashbord' element={<Dashbord></Dashbord>}></Route>
         <Route path='/blogs' element={<Blogs></Blogs>}></Route>
         <Route path='/about' element={<About></About>}></Route>
