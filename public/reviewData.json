@@ -4,7 +4,7 @@
         "name": "Tamim Ahmed",
         "img": "https://images.unsplash.com/photo-1585670210693-e7fdd16b142e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "say": "Desktop PCs that run Microsoft’s Windows 10 offer tremendous value for those who want more power than you’d traditionally find in a reasonably priced laptop. Whether you’re looking for the best PC for general use, like browsing social media",
-        "syaHeading": "Good Quality",
+        "sayHeading": "Good Quality",
         "ratings": 5
     },
     {
@@ -12,7 +12,7 @@
         "name": "SP Tamim",
         "img": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "say": "While laptops are thin, light and portable, desktop PCs still have the edge when it comes to power, and they can often be more affordable than laptops with similar specifications.!",
-        "syaHeading": "Good Perfomance",
+        "sayHeading": "Good Perfomance",
         "ratings": 5
     },
     {
@@ -20,7 +20,7 @@
         "name": "Nobita",
         "img": "https://scontent.fzyl2-1.fna.fbcdn.net/v/t39.30808-6/269810625_154310506930590_694216886194429533_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=moJn-w189CIAX8We3qY&_nc_ht=scontent.fzyl2-1.fna&oh=00_AT-i-XcqfIKt1EnsV3JZt8waKQDoP3nX4Fl_gGK3TnKzqg&oe=624F970D",
         "say": "This is awesome ! I think this PC is one of the best PC ever I used. super fastest and nice perfomance. I used this pc for Graphics Design, and you all know how software length of graphics design software. but this PC worked so smoothly . ! This Is Awesome !",
-        "syaHeading": "Smoothly Works",
+        "sayHeading": "Smoothly Works",
         "ratings": 5
     },
     {
@@ -28,7 +28,7 @@
         "name": "SiZuKa",
         "img": "https://images.unsplash.com/photo-1481214110143-ed630356e1bb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "say": "If you need a powerful PC for your work-from-home setup, we’ve compiled a list of the best desktop computers currently on sale from major retailers.",
-        "syaHeading": "Good Quality",
+        "sayHeading": "Super Faster !",
         "ratings": 5
     },
     {
@@ -36,6 +36,7 @@
         "name": "Pikachu",
         "img": "https://images.unsplash.com/photo-1588516903720-8ceb67f9ef84?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=744&q=80",
         "say": "Small but packed with full-bore desktop components, Maingear's Turbo gaming desktop delivers exquisite performance. It's the ultimate compact gamer, if you can withstand the sticker shock.",
+        "sayHeading": "Best Desktop",
         "ratings": 5
     },
     {
@@ -43,6 +44,7 @@
         "name": "de Villers",
         "img": "https://images.unsplash.com/photo-1599834562135-b6fc90e642ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "say": "Want to do some PC gaming, or do you spend time editing photos or video? You'll want to level up the preceding configuration with more RAM and better graphics options. Expect price points to be between $800 and $1,200 -- and even higher if you go for a more bleeding-edge video card.",
+        "sayHeading": "Amazing !",
         "ratings": 5
     }
 ]

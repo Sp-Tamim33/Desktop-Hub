@@ -1,4 +1,4 @@
-## Project Name : # Desktop Hub
+# Project Name : Desktop Hub
 
  
  # [Live Site](https://sp-desktop-hub.netlify.app/)
